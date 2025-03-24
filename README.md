@@ -71,4 +71,12 @@ npm start
 
 #Run server database
 npm run server
-``` 
+```
+---
+
+## 📬 Contact
+
+For any questions, feel free to contact me:
+
+- **Email**: [aboulouafareda@gmail.com]
+- **LinkedIn**: [Reda Aboulouafa](www.linkedin.com/in/reda-aboulouafa-993a11220)
