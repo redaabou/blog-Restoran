@@ -14,16 +14,16 @@
 Here are the key screens of the Restoran Blog application:
 
 - **Home Page**: Displays latest blog posts
-    ![Home Page](/frontend/public/home-page.png)
+    ![Home Page](/public/home-page.png)
 
 - **All Recipes**: Browse complete recipe collection
-    ![All Recipes](/frontend/public/all-recipes.png)
+    ![All Recipes](/public/all-recipes.png)
 
 - **Add Blog Post**: Admin interface for new content
-    ![Add Blog](/frontend/public/add-blog.png)
+    ![Add Blog](/public/add-blog.png)
 
 - **About Page**: Learn about Restoran's story
-    ![About Page](/frontend/public/about-page.png)
+    ![About Page](/public/about-page.png)
 
 ## 🚀 Features
 
