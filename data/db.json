@@ -1,0 +1,82 @@
+{
+  "repas": [
+    {
+      "id": "d497",
+      "title": "Couscous",
+      "description": "Un plat traditionnel à base de semoule de blé dur, souvent accompagné de légumes, de pois chiches et de viande (agneau, poulet ou bœuf), cuit à la vapeur.",
+      "categorie": "marocain",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720255986/au1uvtpvv472vypa3iri.jpg"
+    },
+    {
+      "id": "7f64",
+      "title": "Pastilla",
+      "description": "Une tarte sucrée-salée composée de couches de pâte filo croustillante, fourrée de pigeon ou de poulet, d'amandes, d'épices, et saupoudrée de sucre glace et de cannelle.",
+      "categorie": "marocain",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256074/meounnalddl9nfnp1cmw.jpg"
+    },
+    {
+      "id": "b259",
+      "title": "Risotto",
+      "description": "Un plat de riz crémeux cuit lentement dans du bouillon, souvent accompagné de parmesan et d'autres ingrédients comme des champignons, des fruits de mer, ou du safran.",
+      "categorie": "italien",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256187/uovqnvph7y10kuwrdpsw.jpg"
+    },
+    {
+      "id": "df1a",
+      "title": "Guacamole",
+      "description": "Une sauce à base d'avocat écrasé, mélangé avec des tomates, des oignons, du jus de lime, de la coriandre et parfois des piments.",
+      "categorie": "Mexicaine",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256280/lskoass8fcblbsttcjen.jpg"
+    },
+    {
+      "id": "54b3",
+      "title": "Dim Sum",
+      "description": "Une variété de petits plats, souvent cuits à la vapeur, incluant des bouchées, des raviolis, et des brioches, généralement servis avec du thé.",
+      "categorie": "chinois",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256351/awsdwhflaj62yzcbg0n4.jpg"
+    },
+    {
+      "id": "ffd6",
+      "title": "Pizza Margherita",
+      "description": "Une pizza classique garnie de sauce tomate, de mozzarella fraîche, de feuilles de basilic et d'un filet d'huile d'olive extra vierge.",
+      "categorie": "italien",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256450/hvulxkylvomhtwcemt7q.jpg"
+    },
+    {
+      "id": "6acf",
+      "title": "Chiles en Nogada",
+      "description": "Un plat traditionnel composé de piments farcis de viande hachée, de fruits et d'épices, recouverts d'une sauce à base de noix et souvent garnis de graines de grenade.",
+      "categorie": "Mexicaine",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256607/bi5sjogkydkia83teltj.jpg"
+    },
+    {
+      "id": "6979",
+      "title": "Canard laqué de Pékin",
+      "description": "Un plat célèbre de Pékin, où le canard est rôti jusqu'à ce que la peau soit croustillante, servi avec des crêpes, de la sauce hoisin, et des oignons verts.",
+      "categorie": "chinois",
+      "image": "https://res.cloudinary.com/ddvr5er0g/image/upload/v1720256940/kg3bczrxiwvigkldsnft.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Marocain",
+      "image": "https://www.cigala.ma/wp-content/uploads/2024/03/Comida-Marroqui_-Platos-Tipicos-y-Recetas_.-The-image-sho-1080x675-1.webp"
+    },
+    {
+      "id": "2",
+      "title": "Italien",
+      "image": "https://img.cuisineaz.com/1200x675/2019/08/01/i149626-pourquoi-la-cuisine-italienne-a-tant-de-succes.webp"
+    },
+    {
+      "id": "3",
+      "title": "Chinois",
+      "image": "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_193,q_auto,dpr_2.0,w_325/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/10480/cuisine-chinoise-tag-AdobeStock_115262838.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Mexicaine",
+      "image": "https://www.gastronomiac.com/wp/wp-content/uploads/2022/08/Cuisine-mexicaine.jpg"
+    }
+  ]
+}

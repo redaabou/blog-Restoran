@@ -1,0 +1,16 @@
+.add-repas-container {
+    background: url('https://img.freepik.com/photos-gratuite/table-regarder-vide-restaurant_23-2147701293.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  .w-50 {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .form-label {
+    text-align: left !important; /* Aligns the text of the label to the left */
+  }
+  
