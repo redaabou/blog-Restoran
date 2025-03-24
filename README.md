@@ -43,9 +43,10 @@ Here are the key screens of the Restoran Blog application:
 |-----------------|--------------------------|
 | Frontend        | React 18                 |
 | State Management| Redux Toolkit            |
+|Image Handling   | Cloudinary               |
 | Routing         | React Router v6          |
-| Authentication  | JWT, Bcrypt             |
-| Styling         | CSS Modules             |
+| Authentication  | JWT, Bcrypt              |
+| Styling         | Bootstrap                |
 
 ## 📦 Installation
 
